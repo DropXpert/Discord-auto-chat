@@ -34,8 +34,8 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/DropXpert/discord-smart-auto-chat.git
-cd discord-smart-auto-chat
+git clone https://github.com/DropXpert/Discord-auto-chat.git
+cd Discord-auto-chat
 
 # Install dependencies
 pip install -r requirements.txt
