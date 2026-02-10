@@ -1,0 +1,5 @@
+# Add your Discord channel IDs here (one per line)
+# Example:
+# 884323459134521354
+# 960488069029564429
+
