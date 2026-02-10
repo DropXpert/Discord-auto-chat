@@ -1,0 +1,16 @@
+{
+    "discord_token": "YOUR_DISCORD_TOKEN_HERE",
+    "self_user_id": "YOUR_USER_ID_HERE",
+    "blacklist_user_ids": [
+        "BOT_ID_1",
+        "YOUR_USER_ID",
+        "ADMIN_ID"
+    ],
+    "channel_settings": {
+        "default_delay_minutes": 5,
+        "per_channel_delay": {
+            "CHANNEL_ID_1": 10,
+            "CHANNEL_ID_2": 15
+        }
+    }
+}
