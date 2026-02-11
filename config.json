@@ -1,6 +1,7 @@
 {
     "discord_token": "YOUR_DISCORD_TOKEN_HERE",
     "self_user_id": "YOUR_USER_ID_HERE",
+    "groq_api_key": "YOUR_GROQ_API_KEY_HERE",
     "blacklist_user_ids": [
         "BOT_ID_1",
         "YOUR_USER_ID",
